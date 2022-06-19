@@ -12,8 +12,8 @@ import keras
 #from keras import models, layers, regularizers
 #from keras.optimizers import  RMSprop
 
-import os
-os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
+#import os
+#os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
 
 
 
